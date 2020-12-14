@@ -1,5 +1,5 @@
 __________________________________________________________
-# CORD-19: Question-Answer (QA) model and Topic modelling
+# Question-Answer (QA) model and Topic modelling
 __________________________________________________________
 @authors  
      Djiby BALDE [GitHub](https://github.com/djibybalde)  
@@ -12,12 +12,8 @@ The aim of the exercise is to study the literature provided by the Kaggle in the
 Our aim is to try to built a QA model that can answer all the CORD-19 tasks. 
 
 This notebook is decomposed in 3 parts: 
-
    * 1st: Data Processing
-    
-   * 2nd: QA model: This model is based in the following notebook:  https://www.kaggle.com/jonathanbesomi/a-qa-model-to-answer-them-all
-    
+   * 2nd: QA model
    * 3rd: Topic modelling  
 
-This notebook was inspired on multiple works on Kaggle and Github.  
-`References are listed below`
+This notebook was inspired on multiple works on Kaggle and Github: `references are listed below`
