@@ -16,4 +16,4 @@ This notebook is decomposed in 3 parts:
    * 2nd: QA model
    * 3rd: Topic modelling  
 
-This notebook was inspired on multiple works on Kaggle and Github: `references are listed below`
+This notebook was inspired on multiple works on Kaggle and Github. 
